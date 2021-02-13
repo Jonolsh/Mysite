@@ -1,0 +1,33 @@
+
+
+
+127.0.0.1/shop/book
+
+
+HTTP HTTPS
+
+
+
+
+coocies
+
+{id:'jfhjfdfhjdf7623762173fdf', key:value}
+
+request.session['foo'] = 'bar'
+
+request.session.get('foo')
+
+memcached  
+
+
+
+commit 
+index stage 
+git commit 
+
+git commit -am ""
+
+git init
+
+
+7b484d190 5e8c563
